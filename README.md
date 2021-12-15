@@ -1,5 +1,5 @@
 # TimeSeriesForecasting
-This repository contains a series of analysis, transforms and forecasting models frequently used when dealing with time series. For the purpose of this repository a real usecase dataset ([Beijing air polution dataset](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data).
+This repository contains a series of analysis, transforms and forecasting models frequently used when dealing with time series. For the purpose of this repository a real usecase dataset ([Beijing air polution dataset](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data)).
 
 # Dataset
 
